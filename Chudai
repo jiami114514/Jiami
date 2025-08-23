@@ -29,5 +29,5 @@ if isLocalPlayerWhitelisted then
     })
     loadstring(game:HttpGet("https://raw.githubusercontent.com/jiami114514/oilyhub/refs/heads/main/oliyhub"))()
 else
-    localPlayer:Kick("你没有被加入白名单，请找群主反馈")
+    localPlayer:Kick("你没有被加入白名单，清加入群聊666738011")
 end
