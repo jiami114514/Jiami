@@ -6,6 +6,7 @@ local WhitelistedPlayers = {
     ["Franken_XXX"] = true,
     ["Xiaoxu_Love"] = true,
     ["91d7856"] = true,
+    ["jiejiejie235"] = true,
     ["alskdjfh7788"] = true,
 }
 
