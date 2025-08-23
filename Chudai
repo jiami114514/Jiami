@@ -5,7 +5,7 @@ local WhitelistedPlayers = {
     ["IWILLKIU_k"] = true,
     ["Franken_XXX"] = true,
     ["Xiaoxu_Love"] = true,
-    ["玩家用户名"] = true,
+    ["91d7856"] = true,
 }
 
 local function IsWhitelisted(player)
