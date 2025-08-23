@@ -2,9 +2,9 @@ local StarterGui = game:GetService("StarterGui")
 local Players = game:GetService("Players")
 local WhitelistedPlayers = {
     ["PNK_Pem"] = true,
-    ["玩家用户名"] = true,
-    ["玩家用户名"] = true,
-    ["玩家用户名"] = true,
+    ["IWILLKIU_k"] = true,
+    ["Franken_XXX"] = true,
+    ["Xiaoxu_Love"] = true,
 }
 
 local function IsWhitelisted(player)
