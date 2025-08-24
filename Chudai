@@ -25,9 +25,9 @@ if isLocalPlayerWhitelisted then
     StarterGui:SetCore("SendNotification", {
         Title = "白名单认证",
         Text = "玩家:"..localPlayer.Name.."，检测完毕白名单玩家，稍后会加载脚本",
-        Duration = 7,
-    })
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/jiami114514/oilyhub/refs/heads/main/oliyhub"))()
+        Duration = 7
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jiami114514/Jiami/refs/heads/main/xin%E5%8A%A8%E7%94%BB"))()
 else
     localPlayer:Kick("你没有被加入白名单，清加入群聊666738011")
 end
