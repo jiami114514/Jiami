@@ -1,5 +1,4 @@
-[
-    {"key": "XIAOYUE2024"},
-    {"key": "PREMIUM2024"},
-    {"key": "USER123"}
-]
+[whitelist = 
+           {[7266427695] = "Key"} 
+
+ return whitelist
